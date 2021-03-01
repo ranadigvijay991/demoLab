@@ -1,4 +1,5 @@
 class Ques1{
+//I have made some changes
 public static void main(String args[]){
 	int a=3, b=7, c=4;
 	if(a>b && a>c){
